@@ -1,4 +1,4 @@
-## ✨ 이동욱 / Lee Dong Wook **@dongwooklee96** ✨
+## ✨ 이동욱 / Lee Dong Wook / **@dongwooklee96** ✨
 
 - I'm a developer who is interested in developing open source.
 - I'm working as a backend developer.

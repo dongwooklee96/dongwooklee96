@@ -23,5 +23,5 @@
 ## ✉️ Contact ✉️
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-lee96/)](https://www.linkedin.com/in/john-lee96/)
-- [![Website Badge](https://img.shields.io/badge/-Tech Blog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://velog.io/@sh95119)](https://https://velog.io/@sh95119)
+- [![Website Badge](https://img.shields.io/badge/-TechBlog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://velog.io/@sh95119)](https://https://velog.io/@sh95119)
 - [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
